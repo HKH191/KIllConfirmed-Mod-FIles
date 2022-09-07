@@ -1,0 +1,1 @@
+for KillConfirmed Icons : Drop KillConfirmed.ytd in Grand Theft Auto V\mods\update\update.rpf\x64\textures\script_txds.rpf\
